@@ -1,0 +1,2 @@
+@tailwind base;@tailwind components;@tailwind utilities;@layer base{html{scroll-behavior:smooth}body{color:#213651;font-family:Inter,system-ui,-apple-system,sans-serif;line-height:1.6}h1,h2,h3,h4,h5,h6{font-family:Poppins,system-ui,sans-serif;font-weight:600;line-height:1.2}}@layer components{.btn-primary,.btn-secondary{@apply px-8 py-4 bg-transparent border-2 border-brand-main text-brand-main font-semibold rounded-full hover:bg-brand-main hover:text-white transition-all duration-300 hover:scale-105}}
+/*# sourceMappingURL=main.1a0e4da8.css.map*/
